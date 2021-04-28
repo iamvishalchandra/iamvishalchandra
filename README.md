@@ -8,8 +8,8 @@ I'm a Computer Science Engineer & a self taught web Developer who enjoy coding a
 
 Skills: REACT / JS / NODE/HTML / CSS
 
-- 🔭 I’m currently working on MERN Stack shopping website 
-- 🌱 I’m currently learning MERN Stack 
+- 🔭 I’m currently working on HULU clone. 
+- 🌱 I’m currently learning Next.js.
 - 📫 How to reach me: https://vishalchandradeveloper.firebaseapp.com/ 
 
 
