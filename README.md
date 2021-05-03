@@ -1,6 +1,6 @@
 <!--
 **iamvishalchandra/iamvishalchandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# Vishal Chandra
+# Vishal Chandra ![Profile views](https://gpvc.arturio.dev/iamvishalchandra)  
 #### Web Developer
 ![Web Developer](https://pbs.twimg.com/profile_banners/477657965/1448441946/600x200)
 
@@ -20,5 +20,3 @@ Skills: REACT / JS / NODE/HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvishalchandra&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamvishalchandra)  
-
-![Profile views](https://gpvc.arturio.dev/iamvishalchandra)  
