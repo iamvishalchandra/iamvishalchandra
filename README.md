@@ -9,7 +9,7 @@ I'm a Computer Science Engineer & a self taught web Developer who enjoy coding a
 Skills: REACT / JS / NODE/HTML / CSS / SCSS
 
 <!-- - 🔭 I’m currently working on clone. -->
-- 🌱 I’m currently learning Next.js and Typescript.js.
+- 🌱 I’m currently learning Next.js and Typescript.
 - 📫 How to reach me: https://vishalchandradeveloper.firebaseapp.com/ 
 
 
