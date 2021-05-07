@@ -6,7 +6,7 @@
 
 I'm a Computer Science Engineer & a self taught web Developer who enjoy coding and love creating amazing stuff from scratch. As a programmer i aim to make products that enhances every individuals life and provide complete satisfaction.
 
-Skills: REACT / JS / NODE/HTML / CSS / SCSS
+Skills: REACT / Express / JS / NODE / HTML / CSS / SCSS
 
 <!-- - 🔭 I’m currently working on clone. -->
 - 🌱 I’m currently learning Next.js and Typescript.
