@@ -3,7 +3,7 @@
 # Vishal Chandra ![Profile views](https://gpvc.arturio.dev/iamvishalchandra)  
 
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_banners/477657965/1448441946/600x200)
+<!--![Web Developer](https://pbs.twimg.com/profile_banners/477657965/1448441946/600x200)-->
 
 I'm a Computer Science Engineer & a self taught web Developer who enjoy coding and love creating amazing stuff from scratch. As a programmer i aim to make products that enhances every individuals life and provide complete satisfaction.
 
