@@ -19,4 +19,4 @@ Skills: REACT.js / Express.js / Node.js / JS / HTML / CSS / SCSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishalchandra)](https://github.com/anuraghazra/github-readme-stats)
 <!--[GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvishalchandra&show_icons=true)  -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamvishalchandra)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamvishalchandra)-->
