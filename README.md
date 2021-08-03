@@ -15,7 +15,7 @@ Database: mongoDB / mySQL / Google-Spreadsheet
 
 <!-- - 🔭 I’m currently working on clone. -->
 - 🌱 I’m currently learning Typescript and GraphQL.
-- 📫 How to reach me: https://vishalchandradeveloper.firebaseapp.com/ 
+- 📫 How to reach me: Email - vishal.chandra75@gmail.com, Discord - playerone#3003
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamvishalchandra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ivishalchandra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15270414)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vishalchandradeveloper.firebaseapp.com/)  
