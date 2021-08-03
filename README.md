@@ -14,7 +14,7 @@ Bot - discord.js
 Database: mongoDB / mySQL / Google-Spreadsheet  
 
 <!-- - 🔭 I’m currently working on clone. -->
-- 🌱 I’m currently learning Next.js and Typescript.
+- 🌱 I’m currently learning Typescript and GraphQL.
 - 📫 How to reach me: https://vishalchandradeveloper.firebaseapp.com/ 
 
 
