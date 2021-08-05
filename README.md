@@ -14,7 +14,7 @@ Bot - discord.js
 Database: mongoDB / mySQL / Google-Spreadsheet  
 
 <!-- - 🔭 I’m currently working on clone. -->
-- 🌱 I’m currently learning Typescript and GraphQL.
+- 🌱 I’m currently learning Typescript, Nest.js and GraphQL.
 - 📫 How to reach me: Email - vishal.chandra75@gmail.com, Discord - playerone#3003
 
 
