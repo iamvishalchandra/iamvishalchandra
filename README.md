@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Freelancer **[Hire ME](https://www.fiverr.com/share/RzgGYL)**
+- 🔭 I’m currently working as a Freelancer **[Hire ME](https://www.fiverr.com/share/5VWmv6)**
 
 - 🌱 I’m currently learning **Nest Js, GraphQL, TypeORM.**
 
