@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Freelancer **[Hire ME](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working as a Freelancer **[Hire ME](https://www.fiverr.com/share/RzgGYL)**
 
 - 🌱 I’m currently learning **Nest Js, GraphQL, TypeORM.**
 
