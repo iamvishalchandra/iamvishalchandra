@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://)** -->
 
-<!-- - 📫 How to reach me **vishal.chandra75@gmail.com** -->
+- 📫 How to reach me **vishal.chandra75@gmail.com**
 
 <!-- - ⚡ Fun fact **???** -->
 
