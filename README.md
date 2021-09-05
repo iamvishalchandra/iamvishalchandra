@@ -69,7 +69,7 @@
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
     <a href = "https://twitter.com/ivishalchandra">
-        <img alt="Twitter URL" height="30" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fivishalchandra">    
+        <img alt="Twitter URL" height="30" src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fivishalchandra">        
 </a>
 <br />
 <hr />
