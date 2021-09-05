@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working as a Freelancer on **Content sharing website for creators**.
+- 🔭 I’m currently working as a Freelancer on **Content sharing website for creators** and **My portfolio v2**.
 
 - 🌱 I’m currently learning **Nest Js, GraphQL, TypeORM.**
 
