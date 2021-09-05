@@ -5,7 +5,6 @@
 
 ## 🙋‍♂️ About Me
 
-
 - 🔭 I’m currently working as a Freelancer on **Content sharing website for creators** and **My portfolio v2**.
 
 - 🌱 I’m currently learning **Nest Js, GraphQL, TypeORM.**
@@ -63,10 +62,17 @@
 ## Connect with me:
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/services/page/4a82bb30b420509a93/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ivishalchandra"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+<a href="mailto:vishal.chandra75@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/services/page/4a82bb30b420509a93/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+    <a href = "https://twitter.com/ivishalchandra">
+    <img height="30" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<br />
+<hr />
 </p>
 
 ## ❤ Views and Followers
