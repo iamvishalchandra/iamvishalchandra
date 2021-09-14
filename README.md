@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as a Freelancer.
 
-- 💻 Currently developing **Content sharing website for creators** and **My portfolio v2**.
+<!-- - 💻 Currently developing **Content sharing website for creators** and **My portfolio v2**. -->
 
-- 🌱 I’m currently learning **Nest Js, GraphQL, TypeORM.**
+- 🌱 I’m currently learning **DApp**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
