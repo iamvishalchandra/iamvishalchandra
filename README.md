@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal</h1>
-<h5 align="left">I'm a Computer Science Engineer & a full stack web Developer who enjoy coding and love creating amazing stuff from scratch. As a programmer i aim to make products that enhances every individuals life and provide complete satisfaction.</h5>
+<h5 align="left">I'm a Computer Science Engineer & a full stack web Developer who enjoy coding and love creating amazing stuff from scratch. As a programmer i aim to make products that enhances every individuals life and provide complete satisfaction.</h5> 
 
 ## 🙋‍♂️ About Me
 
