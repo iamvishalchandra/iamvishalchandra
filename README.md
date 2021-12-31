@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I’m currently working as a Freelancer.
 
 <!-- - 💻 Currently developing **Content sharing website for creators** and **My portfolio v2**. -->
 
