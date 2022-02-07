@@ -9,7 +9,7 @@
 
 <!-- - 💻 Currently developing **Content sharing website for creators** and **My portfolio v2**. -->
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**.
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
