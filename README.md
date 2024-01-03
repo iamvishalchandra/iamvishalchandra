@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working for as Frontend Developer.
+- 🔭 I’m currently working as Fullstack Developer.
 
 <!-- - 💻 Currently developing **Content sharing website for creators** and **My portfolio v2**. -->
 
