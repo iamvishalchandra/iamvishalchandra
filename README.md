@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as Fullstack Developer.
+- 🔭 I’m currently working as Frontend Developer @ The Luxury Closet.
 
 <!-- - 💻 Currently developing **Content sharing website for creators** and **My portfolio v2**. -->
 
